@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "glur",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/joogps/Glur.git",
+      "state" : {
+        "revision" : "ba04affb45766c11bc95b056ccf353038829b147",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "verticalsplit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vedantgurav/VerticalSplit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3d5d0cac7a9b919bc0dc0bc78fb9401869ef3d6b"
+      }
+    }
+  ],
+  "version" : 2
+}
